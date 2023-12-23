@@ -153,7 +153,7 @@ else{
 */
 
 // code to find which day it is through numbers
-let day = 8 ;
+/*let day = 8 ;
 
  switch (day) {
     case 1 :
@@ -189,7 +189,7 @@ let day = 8 ;
         break;
 }
 console.log("the day is:\n" + day);
-
+*/
 
 // 6. Ternary operator
 // condition ? true_statement : false_statement;
@@ -211,8 +211,8 @@ console.log("s % b =", s%b);//modulus
 */
 
 //2. Assignment operators
-let a = 4;
-let b = 2;
+// let a = 4;
+// let b = 2;
 // console.log(a /= b);
 // console.log(a /= b);
-console.log(a **= b);
+// console.log(a **= b);
