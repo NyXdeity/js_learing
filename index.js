@@ -287,12 +287,12 @@ console.log("s % b =", s%b);//modulus
 //*complex primitives://arrays and objects:-
 // WAP to print all the even numbers in an array
 
-const personArray = ["this","is","a","ARRAY"];
-console.log(personArray[0]);
+// const personArray = ["this","is","a","ARRAY"];
+// console.log(personArray[0]);
 
-const age =[15,45,67,32,65,32,65];
+// const age =[15,45,67,32,65,32,65];
 
-for(i = 0; i < age.length; i++){
-    if(age[i] % 2 == 0)
-    console.log(age);
-}
+// for(i = 0; i < age.length; i++){
+//     if(age[i] % 2 == 0)
+//     console.log(age);
+// }
