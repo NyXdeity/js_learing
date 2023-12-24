@@ -290,8 +290,12 @@ console.log("s % b =", s%b);//modulus
 // const personArray = ["this","is","a","ARRAY"];
 // console.log(personArray[0]);
 
-// const age =[15,78,6,32,65,32,65];
-// for(i = 0; i < age.length; i++){
+// const age =[15,45,67,32,65,32,65];
+
+// numberOfpeople = age.length;
+
+// for(i = 0; i < numberOfpeople; i++) {
+    
 //     if(age[i] % 2 == 0){
 //         console.log(age[i]);
 //     }
