@@ -309,3 +309,7 @@ console.log("s % b =", s%b);//modulus
 //     }
 // }
 // console.log("the biggest number in the array is:- "+biggestNum);
+
+
+const a = 0;
+ 
