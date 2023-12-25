@@ -301,12 +301,12 @@ console.log("s % b =", s%b);//modulus
 //     }
 // }
 
-const num = [6,23,54,100,67,68]; //WAP to print the biggest number in an array
-let biggestNum = [0];//assumes the first element is the largest
-for(let i = 1 ; i < num.length; i++) {
+// const num = [6,23,54,100,67,68]; //WAP to print the biggest number in an array
+// let biggestNum = [0];//assumes the first element is the largest
+// for(let i = 1 ; i < num.length; i++) {
     
-    if(num[i] > biggestNum) {
-        biggestNum = num[i];//update if a larger number is found 
-    }
-}
-console.log("the biggest number in the array is:- "+biggestNum);
+//     if(num[i] > biggestNum) {
+//         biggestNum = num[i];//update if a larger number is found 
+//     }
+// }
+// console.log("the biggest number in the array is:- "+biggestNum);
