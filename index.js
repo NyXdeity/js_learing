@@ -298,7 +298,7 @@ console.log("s % b =", s%b);//modulus
 //     if(age[i] % 2 == 0){
 //         console.log(age[i]);
 //     }
-// }
+// } 
 
 // const num = [6,23,54,100,67,68]; //WAP to print the biggest number in an array
 // let biggestNum = [0];//assumes the first element is the largest
