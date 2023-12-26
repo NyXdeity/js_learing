@@ -318,5 +318,3 @@ console.log("s % b =", s%b);//modulus
 //     let gender = genderArray[i];
 //     console.log(person+gender);
 // }
-
-thishu
