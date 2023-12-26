@@ -319,4 +319,3 @@ console.log("s % b =", s%b);//modulus
 //     console.log(person+gender);
 // }
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
