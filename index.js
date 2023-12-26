@@ -310,11 +310,11 @@ console.log("s % b =", s%b);//modulus
 // }
 // console.log("the biggest number in the array is:- "+biggestNum);
 
-const personArray = ["prince soni ","abhishek soni "];//prints a person and their gender;
-const genderArray = [" male"," male"];
+// const personArray = ["prince soni ","abhishek soni "];//prints a person and their gender;
+// const genderArray = [" male"," male"];
 
-for(i = 0; i<personArray.length; i++ ){
-    let person = personArray[i];
-    let gender = genderArray[i];
-    console.log(person+gender);
-}
+// for(i = 0; i<personArray.length; i++ ){
+//     let person = personArray[i];
+//     let gender = genderArray[i];
+//     console.log(person+gender);
+// }
