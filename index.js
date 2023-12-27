@@ -318,4 +318,13 @@ console.log("s % b =", s%b);//modulus
 //     let gender = genderArray[i];
 //     console.log(person+gender);
 // }
+const personArray = ["prince","abhishek","teena","papa","sunita","mummy"];
+const genderArray = ["male","male","female","male","female","female"];
+const numberOfpeople = personArray.length
+ 
+for( let i = 0; i < numberOfpeople; i++){
+    if(genderArray[i] == "male"){
+        console.log(personArray[i]);
+    }
+}
 
