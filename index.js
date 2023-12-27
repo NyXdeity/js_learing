@@ -318,3 +318,11 @@ console.log("s % b =", s%b);//modulus
 //     let gender = genderArray[i];
 //     console.log(person+gender);
 // }
+const personArray = ["prince","abhishek","teena"];//prints out the person based on their arrays:-
+const genderArray = ["male","male","female"];
+ 
+for( i = 0; i < personArray.length; i++){
+    if(genderArray[i] == "male"){
+        console.log(personArray[i]);
+    }
+}
