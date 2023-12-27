@@ -338,3 +338,24 @@ console.log("s % b =", s%b);//modulus
 // // console.log(user1);//output: { firstName: 'Prince', gender: 'male' }
 // console.log(user1["firstName"]);// to get an specific thing in the object  //output: Prince 
 // console.log(user1["gender"]);//output: male
+
+
+const allUser =[{//to make an array of object
+    firstName:"Prince",
+    gender:"male",
+},{
+    firstName:"abhishek",
+    gender:"male",
+},{
+    firstName:"teena",
+    gender:"female",
+},{
+    firstName:"papa",
+    gender:"male",
+},{
+    firstName:"mummy",
+    gender:"female",
+},{
+    firstName:"dadaji",
+    gender:"male",
+},]
