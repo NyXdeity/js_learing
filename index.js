@@ -340,22 +340,22 @@ console.log("s % b =", s%b);//modulus
 // console.log(user1["gender"]);//output: male
 
 
-const allUser =[{//to make an array of object
-    firstName:"Prince",
-    gender:"male",
-},{
-    firstName:"abhishek",
-    gender:"male",
-},{
-    firstName:"teena",
-    gender:"female",
-},{
-    firstName:"papa",
-    gender:"male",
-},{
-    firstName:"mummy",
-    gender:"female",
-},{
-    firstName:"dadaji",
-    gender:"male",
-},]
+// const allUser =[{//to make an array of object
+//     firstName:"Prince",
+//     gender:"male",
+// },{
+//     firstName:"abhishek",
+//     gender:"male",
+// },{
+//     firstName:"teena",
+//     gender:"female",
+// },{
+//     firstName:"papa",
+//     gender:"male",
+// },{
+//     firstName:"mummy",
+//     gender:"female",
+// },{
+//     firstName:"dadaji",
+//     gender:"male",
+// },]
