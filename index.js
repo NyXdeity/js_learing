@@ -328,34 +328,34 @@ console.log("s % b =", s%b);//modulus
 //     }
 // }
 
-objects:-
+// objects:-
 
 
-const user1 = {
-    firstName: "Prince",
-    gender: "male"
-}// this is the syntax of abojects
-// console.log(user1);//output: { firstName: 'Prince', gender: 'male' }
-console.log(user1["firstName"]);// to get an specific thing in the object  //output: Prince 
-console.log(user1["gender"]);//output: male
+// const user1 = {
+//     firstName: "Prince",
+//     gender: "male"
+// }// this is the syntax of abojects
+// // console.log(user1);//output: { firstName: 'Prince', gender: 'male' }
+// console.log(user1["firstName"]);// to get an specific thing in the object  //output: Prince 
+// console.log(user1["gender"]);//output: male
 
 
-const allUser =[{//to make an array of object
-    firstName:"Prince",
-    gender:"male",
-},{
-    firstName:"abhishek",
-    gender:"male",
-},{
-    firstName:"teena",
-    gender:"female",
-},{
-    firstName:"papa",
-    gender:"male",
-},{
-    firstName:"mummy",
-    gender:"female",
-},{
-    firstName:"dadaji",
-    gender:"male",
-},]
+// const allUser =[{//to make an array of object
+//     firstName:"Prince",
+//     gender:"male",
+// },{
+//     firstName:"abhishek",
+//     gender:"male",
+// },{
+//     firstName:"teena",
+//     gender:"female",
+// },{
+//     firstName:"papa",
+//     gender:"male",
+// },{
+//     firstName:"mummy",
+//     gender:"female",
+// },{
+//     firstName:"dadaji",
+//     gender:"male",
+// },]
