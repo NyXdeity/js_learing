@@ -375,3 +375,4 @@ console.log("s % b =", s%b);//modulus
 //     console.log(nestedObject[i]["metaData"]["age"]);
 // }
 
+//functions
