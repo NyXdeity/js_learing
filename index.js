@@ -377,7 +377,7 @@ console.log("s % b =", s%b);//modulus
 
 //functions
 
-function Sum(a,b){//in this code the thread will go in this order line=> >164>161>162>165 
+function Sum(a,b){//in this code the thread will go in this order line=> da>164>161>162>165 
     //goal of a f(x): do things with input and return an output
     const valueSum = a + b;
     return valueSum;
