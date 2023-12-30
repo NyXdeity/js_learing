@@ -375,12 +375,12 @@ console.log("s % b =", s%b);//modulus
 //     console.log(nestedObject[i]["metaData"]["age"]);
 // }
 
-//functions
+functions
 
-// function Sum(a,b){//in this code the thread will go in this order line=> 380>385>382>383>386
-//     //goal of a f(x): do things with input and return an output
-//     const valueSum = a + b;
-//     return valueSum;
-// }
-// const value = Sum(1,2)
-// console.log(value);
+function Sum(a,b){//in this code the thread will go in this order line=> 380>385>382>383>386
+    //goal of a f(x): do things with input and return an output
+    const valueSum = a + b;
+    return valueSum;
+}
+const value = Sum(1,2)
+console.log(value);
