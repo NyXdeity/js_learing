@@ -384,3 +384,7 @@ console.log("s % b =", s%b);//modulus
 // }
 // const value = Sum(1,2)
 // console.log(value);
+
+//by free code camp:-
+// let myStr = "This is the first sentence. ";//Concatenating Strings with the Plus Equals Operator
+// myStr += "This is the second sentence.";
