@@ -388,3 +388,9 @@ console.log("s % b =", s%b);//modulus
 // by free code camp:-
 // let myStr = "This is the first sentence. ";//Concatenating Strings with the Plus Equals Operator
 // myStr += "This is the second sentence.";
+
+let sum = 0;
+for(let i = 0; i< 10000000000; i++){
+    sum = sum + i;
+}
+console.log(sum);
