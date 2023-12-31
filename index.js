@@ -362,29 +362,29 @@ console.log("s % b =", s%b);//modulus
 
 
 // const nestedObject =[{//how to access the nested objects
-    firstName:"prince",
-    gender:"male",
-    metaData: {
-        age: 18,
-        address:"udaipur",
-        favPerson:"abhishek soni",
-        favDessert:"lava cake"
-    }
-}]
-for(let i=0; i<nestedObject.length;i++){
-    console.log(nestedObject[i]["metaData"]["age"]);
-}
+//     firstName:"prince",
+//     gender:"male",
+//     metaData: {
+//         age: 18,
+//         address:"udaipur",
+//         favPerson:"abhishek soni",
+//         favDessert:"lava cake"
+//     }
+// }]
+// for(let i=0; i<nestedObject.length;i++){
+//     console.log(nestedObject[i]["metaData"]["age"]);
+// }
 
-functions
+// functions
 
-function Sum(a,b){//in this code the thread will go in this order line=> 380>385>382>383>386
-    //goal of a f(x): do things with input and return an output
-    const valueSum = a + b;
-    return valueSum;
-}
-const value = Sum(1,2)
-console.log(value);
+// function Sum(a,b){//in this code the thread will go in this order line=> 380>385>382>383>386
+//     //goal of a f(x): do things with input and return an output
+//     const valueSum = a + b;
+//     return valueSum;
+// }
+// const value = Sum(1,2)
+// console.log(value);
 
-by free code camp:-
-let myStr = "This is the first sentence. ";//Concatenating Strings with the Plus Equals Operator
-myStr += "This is the second sentence.";
+// by free code camp:-
+// let myStr = "This is the first sentence. ";//Concatenating Strings with the Plus Equals Operator
+// myStr += "This is the second sentence.";
