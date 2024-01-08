@@ -385,6 +385,10 @@ console.log("s % b =", s%b);//modulus
 // const value = Sum(1,2)
 // console.log(value);
 
+//functions can take another functions as input:-
+// const cl = console.log.bind(console);
+// cl("hello");
+
 // by free code camp:-
 // let myStr = "This is the first sentence. ";//Concatenating Strings with the Plus Equals Operator
 // myStr += "This is the second sentence.";
