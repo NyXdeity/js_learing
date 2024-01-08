@@ -335,7 +335,6 @@ console.log("s % b =", s%b);//modulus
 //     firstName: "Prince",
 //     gender: "male"
 // }// this is the syntax of abojects
-// // console.log(user1);//output: { firstName: 'Prince', gender: 'male' }
 // console.log(user1["firstName"]);// to get an specific thing in the object  //output: Prince 
 // console.log(user1["gender"]);//output: male
 
