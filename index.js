@@ -398,3 +398,20 @@ console.log("s % b =", s%b);//modulus
 //     sum = sum + i;
 // }
 // console.log(sum);
+
+
+function sum(a,b, fnToCall) {//fnToCall=> displayResult
+    let result = a + b;
+    fnToCall(result);
+}
+function displayResult(data) {
+    console.log("Result of the Sum is :" + data);
+}
+function displayResultPassive(data) {
+    console.log("Sum's result is :" + data);
+}
+// are only allowed to call one function after this
+// how will you displayResult of sum
+// you are not allowed to change the code ABOVE only change the code below
+const ans = sum(1,2,displayResult);//displayResult will go to fnToCall:- by doing this we're essentially givving fun an value which is another fnc.
+// callbacks ^^^
