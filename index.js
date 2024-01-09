@@ -522,8 +522,3 @@ getLength("new message");
 //   getSlice("Hello World", 0, 5);
 
 
- 
-
-
-
-
