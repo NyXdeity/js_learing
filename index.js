@@ -526,3 +526,14 @@ getLength("new message");
 
 
 */
+
+/* 5) substring
+ function getSubstring(str, start, end) {
+    console.log("Original String:", str);
+    console.log("After substring:", str.substring(start, end));
+  }
+  getSubstring("Hello World", 2, 4);
+
+  const str = "hello,world";// at a low level this is how it's done 
+  console.log(str.substring(2,6))
+*/  
