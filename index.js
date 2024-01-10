@@ -513,12 +513,16 @@ getLength("new message");
  }
  findLastIndexOf("hello world world", "world");// output: 12
 */
-
-slice
-function getSlice(str, start, end) {
+/* 4) slice
+  function getSlice(str, start, end) {
     console.log("Original String:", str);
     console.log("After slice:", str.slice(start, end));
   }
-  getSlice("Hello World", 0, 5);
+  getSlice("Hello World", 0, 5);//it'll show the elements 0,1,2,3,4
+
+  const str = "hello,World";// working at a low level this is how it's done
+  console.log(str.slice(0,5));
 
 
+
+*/
