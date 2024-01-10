@@ -538,29 +538,29 @@ getLength("new message");
   console.log(str.substring(2,6))
 */  
 
-/* 6) replace
-function replaceString(str,target,replacement){
-    console.log("original string:", str);
-    console.log("After replacement :", str.replace(target,replacement));
-}
+// /* 6) replace
+// function replaceString(str,target,replacement){
+//     console.log("original string:", str);
+//     console.log("After replacement :", str.replace(target,replacement));
+// }
 
-replaceString("Hello, World", "World", "javascript");
+// replaceString("Hello, World", "World", "javascript");
 
-var str = "hello , world ";//at a low level this is how it's done:-
-console.log(str.replace("world","javascript"));
-*/
+// var str = "hello , world ";//at a low level this is how it's done:-
+// console.log(str.replace("world","javascript"));
+// */
 
-/* 7) split
- //Turns a string into array based on a delimiter
- //this is an intersting and useful tool.
- function splitString(str, separator) {
-    console.log("original string:",str);
-    console.log("After split:",str.split(separator));
- }
- splitString("Hello , World", " ");// output:[ 'Hello', ',', 'World' ] here the delimiter is spcae(" ").
+// /* 7) split
+//  //Turns a string into array based on a delimiter
+//  //this is an intersting and useful tool.
+//  function splitString(str, separator) {
+//     console.log("original string:",str);
+//     console.log("After split:",str.split(separator));
+//  }
+//  splitString("Hello , World", " ");// output:[ 'Hello', ',', 'World' ] here the delimiter is spcae(" ").
  
- const str = "hello , world , my name is prince";// at a low level this is how it's done
- console.log(str.split(","));//[ 'hello ', ' world ', ' my name is prince' ]
+//  const str = "hello , world , my name is prince";// at a low level this is how it's done
+//  console.log(str.split(","));//[ 'hello ', ' world ', ' my name is prince' ]
 
-*/
+// */
 
