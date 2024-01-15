@@ -572,4 +572,4 @@
 //   trimString(" Hello World ");
 // */ 
   
-//toSting
+//toSting:- converts into string 
