@@ -572,3 +572,4 @@
 //   trimString(" Hello World ");
 // */ 
   
+//toSting
