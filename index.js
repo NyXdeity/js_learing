@@ -572,4 +572,5 @@ console.log(str.replace("world","javascript"));
   trimString(" Hello World ");
 */ 
   
-toSting:- converts into string 
+/*toSting:- converts into string
+*/ 
