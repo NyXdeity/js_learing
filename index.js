@@ -563,7 +563,7 @@
 //  console.log(str.split(","));//[ 'hello ', ' world ', ' my name is prince' ]
 
 // */
-
+// this is a random comment ><
 // /* trim
 //  function trimString(str) {
 //     console.log("Original String:", str);
