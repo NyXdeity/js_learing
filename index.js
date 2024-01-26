@@ -573,4 +573,4 @@ console.log(str.replace("world","javascript"));
 */ 
   
 /*toSting:- converts into string
-// */ 
+// */
