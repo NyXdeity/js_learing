@@ -1,4 +1,4 @@
-//day 1 introduction to Js
+  //day 1 introduction to Js
 /*
  var first = " 1st ";
 alert("welcome to my"+first+"site");//display a modal dialog box with this msg and an OK button.
