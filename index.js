@@ -472,7 +472,9 @@ console.log("s % b =", s%b);//modulus
 
 
 
-//strings :-
+//level 1
+
+//01-Strings :-
 
 /*1) Length
 function getLength(str){
@@ -513,6 +515,7 @@ getLength("new message");
  }
  findLastIndexOf("hello world world", "world");// output: 12
 */
+
 /* 4) slice
   function getSlice(str, start, end) {
     console.log("Original String:", str);
@@ -563,15 +566,27 @@ console.log(str.replace("world","javascript"));
  console.log(str.split(","));//[ 'hello ', ' world ', ' my name is prince' ]
 
 */
-// this is a random comment ><
-/* trim
- function trimString(str) {
-    console.log("Original String:", str);
-    console.log("After trim:", str.trim());
-  }
-  trimString(" Hello World ");
-*/ 
-  
-/*toSting:- converts into string
 
-*/
+// // trim
+// function trimString(str) {
+//   console.log("Original String:", str);
+//   console.log("After trim:", str.trim());
+// }
+// trimString(" Hello World ");
+
+//toString:- this is used to make an array an string
+
+//// toUpperCase
+// function toUpper(str) {
+//   console.log("Original String:", str);
+//   console.log("After toUpperCase:", str.toUpperCase());
+// }
+// toUpper("Hello World");
+
+// toLowerCase
+// function toLower(str) {
+//   console.log("Original String:", str);
+//   console.log("After toLowerCase:", str.toLowerCase());
+// }
+// toLower("Hello World");
+
