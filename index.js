@@ -580,10 +580,3 @@ console.log(str.replace("world","javascript"));
 // function toUpper(str) {
 //   console.log("Original String:", str);
 //   console.log("After toUpperCase:", str.toUpperCase());
-// }
-// toUpper("Hello World");
-
-// toLowerCase
-// function toLower(str) {
-//   console.log("Original String:", str);
-//
