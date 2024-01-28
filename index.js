@@ -568,15 +568,3 @@ console.log(str.replace("world","javascript"));
 */
 
 // // trim
-// function trimString(str) {
-//   console.log("Original String:", str);
-//   console.log("After trim:", str.trim());
-// }
-// trimString(" Hello World ");
-
-//toString:- this is used to make an array an string
-
-//// toUpperCase
-// function toUpper(str) {
-//   console.log("Original String:", str);
-//   console.log("After toUpperCase:", str.toUpperCase());
