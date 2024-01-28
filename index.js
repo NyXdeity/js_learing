@@ -589,4 +589,3 @@ console.log(str.replace("world","javascript"));
 //   console.log("After toLowerCase:", str.toLowerCase());
 // }
 // toLower("Hello World");
-
