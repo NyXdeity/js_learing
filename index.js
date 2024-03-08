@@ -695,4 +695,3 @@ console.log(str.replace("world","javascript"));
 //*4) concat()
 // const inintialArray = [ 1, 2, 3, 4 ];
 // inintialArray.concat()
-
